@@ -9,15 +9,15 @@
 <body>
     <section>
         <header class="min-w-full py-3 px-5 shadow flex justify-between fixed">
-            <ul class="flex">
-                <p class="mr-5 text-white">logo</p>
+                <p class="mr-5 text-white"></p>
                 <li class="inline-block text-white"><a href="">home</a></li>
             </ul>
             <ul>
-                <li><a class="text-white" href="">search</a></li>
+                <li><a class="inline-block " src="image/search.png" alt=""></a></li>
             </ul>
-        </header>
-        <img class="min-w-full min-h-full" src="library.jpg" alt="">
+            <ul class="flex">
+            </header>
+        <img class="min-w-full min-h-full" src="image/books-shelf.jpg" alt="">
     </section>
     <section class="min-w-full px-7">
         <div class="cards-container mt-16">
