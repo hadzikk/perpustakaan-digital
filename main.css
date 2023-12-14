@@ -1,0 +1,26 @@
+section:nth-child(1) {
+  width: 100%;
+  height: 100vh;
+}
+section:nth-child(1) img {
+  width: 100%;
+  height: 100%;
+}
+
+section {
+  display: block;
+}
+section .cards {
+  border-radius: 4px;
+  overflow: hidden;
+}
+section .cards .card {
+  border-radius: 4px;
+}
+section .cards .card img {
+  border-radius: 4px;
+  height: 100%;
+}
+section .cards .card:nth-child(1) img {
+  height: 100%;
+}/*# sourceMappingURL=main.css.map */
